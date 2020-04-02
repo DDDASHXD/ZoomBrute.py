@@ -3,6 +3,8 @@
 This is just a quick script i made that generates either a random 9 or 10 char number, and tries to use it on zoom.
 If it works, it'll tell you.
 
+![Example gif](https://im5.ezgif.com/tmp/ezgif-5-4ceefc4829e0.gif)
+
 # Requirements
 1. You need to have the newest public version of chrome installed
 1. You need selenium installed. You can do so by typing `pip install selenium` in cmd or powershell.
