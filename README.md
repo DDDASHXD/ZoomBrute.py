@@ -1,4 +1,4 @@
-# zoombrute
+# ZoomBrute.py
 ### A program that automatically tests random Zoom meeting codes,  to brute force meetings.
 This is just a quick script i made that generates either a random 9 or 10 char number, and tries to use it on zoom.
 If it works, it'll tell you.
