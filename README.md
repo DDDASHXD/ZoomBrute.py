@@ -3,7 +3,7 @@
 This is just a quick script i made that generates either a random 9 or 10 char number, and tries to use it on zoom.
 If it works, it'll tell you.
 
-![Example gif](https://s164.convertio.me/p/oKf3jyPeBtBOCmdg0qRGww/1c00d3f206c647803594125471e97b3f/b28fd1429d60312bc2c759fed8ca14ed.gif)
+![Example gif](https://hexima.pw/example.gif)
 
 # Requirements
 1. You need to have the newest public version of chrome installed
