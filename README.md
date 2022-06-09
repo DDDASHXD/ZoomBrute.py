@@ -1,3 +1,8 @@
+# VERY OUTDATED
+### This script is very outdated, and is not being worked on anymore.
+[zer0mania](https://github.com/zer0mania) is developing a method that uses requests, instead of selenium (much better)
+You can find it here: [https://github.com/zer0mania/zoom-scraper](https://github.com/zer0mania/zoom-scraper)
+
 # ZoomBrute.py
 ### A program that automatically tests random Zoom meeting codes,  to brute force meetings.
 This is just a quick script i made that generates either a random 9 or 10 char number, and tries to use it on zoom.
