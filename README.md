@@ -1,5 +1,5 @@
-# VERY OUTDATED
-### This script is very outdated, and is not being worked on anymore.
+# Archived
+### This script is archived, and is not being maintained anymore.
 [zer0mania](https://github.com/zer0mania) is developing a method that uses requests, instead of selenium (much better)
 You can find it here: [https://github.com/zer0mania/zoom-scraper](https://github.com/zer0mania/zoom-scraper)
 
